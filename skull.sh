@@ -14,51 +14,51 @@ intro(){
 echo "Selamat datang kak, Siapa nick kaka?" #tulisan keluar
 read nick #membaca yang ditulis
 echo "            _,.-------.,_ "
-sleep 0.03
+sleep 1
 echo "        ,;~'             '~;, "
-sleep 0.03
+sleep 1
 echo "      ,;                     ;, "
-sleep 0.03
+sleep 1
 echo "     ;                         ; "
-sleep 0.03
+sleep 1
 echo "    ,'                         ', "
-sleep 0.03
+sleep 1
 echo "   ,;                           ;, "
-sleep 0.03
+sleep 1
 echo "   ; ;      .           .      ; ; "
-sleep 0.03
+sleep 1
 echo "   | ;   ______       ______   ; | "
-sleep 0.03
+sleep 1
 echo "   |  '/~'     ~' . '~     '~\'  | "
-sleep 0.03
+sleep 1
 echo "   |  ~  ,-~~~^~, | ,~^~~~-,  ~  | "
-sleep 0.03
+sleep 1
 echo "    |   |        }:{        |   | "
-sleep 0.03
+sleep 1
 echo "    |   l       / | \       !   | "
-sleep 0.03
+sleep 1
 echo "    .~  (__,.--' .^. '--.,__)  ~. "
-sleep 0.03
+sleep 1
 echo "    |     ---;' / | \ ';---     | "
-sleep 0.03
+sleep 1
 echo "     \__.       \/^\/       .__/ "
-sleep 0.03
+sleep 1
 echo "      V| \                 / |V "
-sleep 0.03
+sleep 1
 echo "       | |T~\___!___!___/~T| | "
-sleep 0.03
+sleep 1
 echo "       | |'IIII_I_I_I_IIII'| | "
-sleep 0.03
+sleep 1
 echo "       |  \,III I I I III,/  | "
-sleep 0.03
+sleep 1
 echo "        \   '~~~~~~~~~~'    / "
-sleep 0.03
+sleep 1
 echo "          \   .       .   / "
-sleep 0.03
+sleep 1
 echo "            \.    ^    ./ " 
-sleep 0.03
+sleep 1
 echo "              ^~~~^~~~^  "
-sleep 0.03
+sleep 1
 echo "  ================================"
 sleep 2
 echo "  ==       Skull Project        =="
